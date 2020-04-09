@@ -1,0 +1,3 @@
+function executor(function) {
+  function();
+}
